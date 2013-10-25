@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 				android.R.layout.simple_list_item_1, list);
 		listview.setAdapter(adapter);
 
-		listview.setOnItemClickListener(new 	.OnItemClickListener() {
+		listview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
 			@Override
 			public void onItemClick(AdapterView<?> parent, final View view,

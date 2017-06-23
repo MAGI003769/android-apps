@@ -1,0 +1,7 @@
+#Fri Jun 23 13:24:32 CST 2017
+base.0=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eaec3b2fb7bf5d919fff555d3f1c9f6b71e96d24
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dffe817d27e2025e34d3498aaacddaab2e6870b1\\classes.dex
+base.1=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_dffe817d27e2025e34d3498aaacddaab2e6870b1
+file.0=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eaec3b2fb7bf5d919fff555d3f1c9f6b71e96d24\\classes.dex

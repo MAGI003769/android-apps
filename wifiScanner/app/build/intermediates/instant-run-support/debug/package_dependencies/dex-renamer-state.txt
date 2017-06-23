@@ -1,0 +1,4 @@
+#Fri Jun 23 13:24:31 CST 2017
+base.0=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_b470e12847954979c068af4ed42b1e1b90cf9924
+renamed.0=classes.dex
+file.0=C\:\\Users\\kks\\Programming\\Android\\wifiScanner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_b470e12847954979c068af4ed42b1e1b90cf9924\\classes.dex

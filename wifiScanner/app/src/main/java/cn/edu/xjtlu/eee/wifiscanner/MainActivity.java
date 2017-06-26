@@ -23,11 +23,11 @@ public class MainActivity extends Activity {
 	StringBuilder csv = new StringBuilder();
 	boolean scanFinished = false;
 
-	public void onCreate(Bundle savedInstanceState) {
+	public void onCreate(Bundle savedInstanceState) {		
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		mainText = (TextView) findViewById(R.id.mainText);
-		mainWifi = (WifiManager) getSystemService(Context.WIFI_SERVICE);
+		mainWifi = (WifiManager) getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 		receiverWifi = new WifiReceiver();
 		registerReceiver(receiverWifi, new IntentFilter(
 				WifiManager.SCAN_RESULTS_AVAILABLE_ACTION));
